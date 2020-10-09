@@ -1,0 +1,11 @@
+{
+  "name": "igem-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nick Chubb",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mdbootstrap": "^4.19.1"
+  }
+}
